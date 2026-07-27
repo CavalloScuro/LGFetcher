@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/LGFetcher GitHub Banner.jpg" alt="LGFetcher Banner" width="100%">
+  <img src="assets/lgfetcher_banner.jpg" alt="LGFetcher Banner" width="100%">
 </p>
 
 # LGFetcher

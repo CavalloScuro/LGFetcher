@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/LGFetcher GitHub Banner.jpg" alt="LGFetcher Banner" width="100%">
+</p>
+
 # LGFetcher
 
 **LGFetcher** is a native Zotero plugin that automatically searches Library Genesis (LibGen) mirrors, downloads full-text books and research articles, and attaches them directly to your Zotero items.

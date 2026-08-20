@@ -58,7 +58,7 @@ LGFetcher v1.1.0 introduces a redesigned search-and-download workflow, configura
 
 - **Integrated Zotero Interface:** LGFetcher is available from the Zotero **Tools** menu and includes its own pane in **Zotero Settings**. See [Figures 1 and 2](#figures).
 
-- **Zotero Compatibility:** Supports Zotero 6, 7, and 8.
+- **Zotero Compatibility:** Supports Zotero 6, 7, 8, and 9.
 
 ---
 
